@@ -5,12 +5,17 @@
 **pp34**	相关个人信息， 欢迎骚扰。
  
 - **邮箱**：
+
 <div align = right> smu-pp@foxmail.com
+
 - **github** ：
+
 <div align = right>https://github.com/pp34    
 
 <div align = right>https://pp34.github.io/pp34.cv/
+
 - **知乎** ：
+
 <div align = right>https://www.zhihu.com/people/xie-pi-er-si/activities
 
 -------------------
