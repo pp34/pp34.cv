@@ -1,30 +1,87 @@
-## Welcome to pp34 github 主页
+## Welcome to pp34 github 主页									
 
-You can use the [editor on GitHub](https://github.com/pp34/pp34.cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+@[个人简介|正在做的项目|已经完成的制作|备忘笔记]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**pp34**	相关个人信息， 欢迎骚扰。
+ 
+- **邮箱**：<div align = right> smu-pp@foxmail.com
+- **github** ：
+<div align = right>https://github.com/pp34
+https://pp34.github.io/pp34.cv/
+- **知乎** ：<div align = right>https://www.zhihu.com/people/xie-pi-er-si/activities
 
-### Markdown
+-------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[TOC]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 正在做的项目
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### 磁共振电阻抗成像部分硬件系统的研究与开发
+> 硬件设计和代码编写阶段
+> 以MSP432单片机作主控的可调压控电流源
+> 根据MRI射频信号触发，使电流注入人体，并轮流采集各个电极的电压数据，上传上位机处理成图像
+>软件环境： C ，硬件环境： MSP432 ，开发工具： Code Composer Studio
+>仍在开发中
 
-**Bold** and _Italic_ and `Code` text
+-------------------
+#### 基于 AD5933 的生物复阻抗测量仪
+> 熬伦文和硬件设计与测试阶段
+>  使用MCU与AD5933通信，产生激励电压信号， AD采集的人体电压信号并对数据进行处理，得出人体阻抗信息
+> 使用UART触摸屏，实现下位机离线操作，界面优美
+> Python编写的上位机，可将数据利用USB传回PC端处理
+> 软件环境： C ，硬件环境： AVR ，开发工具： IAR
+>仍在开发中
 
-[Link](url) and ![Image](src)
-```
+-------------------
+#### 自平衡小车
+> 开发遥遥无期-------------------
+
+-------------------
+#### 四旋翼飞行器
+> 开发遥遥无期-------------------
+
+-------------------
+#### 其他
+> 暂时没打算-------------------
+
+-------------------
+
+### 已经完成
+
+#### 基于模拟信号的血氧检测仪
+
+> 基于模拟信号、以MSP430单片机作为微控制器的血氧检测仪
+>利用单片机控制模拟前端AFE4400，对人体肢体末端的光电信号进行捕捉，并AD处理，计算出血氧饱和度
+> 主要负责单片机程序的设计与测试，以及数据采集和算法校准
+> 软件环境： C ，硬件环境： MSP430 ，开发工具： Code Composer Studio
+> 资料整合中
+
+-------------------
+
+#### 基于数字信号的血氧检测仪
+> 基于数字信号的，以MSP430单片机作为微控制器的便携式数字血氧检测仪
+>利用单片机定时器捕获传感器脉宽，滤波处理，计算出血氧饱和度
+> 主要负责单片机程序的设计与测试，以及数据采集和算法校准
+> 软件环境： C ，硬件环境： MSP430 ，开发工具： Code Composer Studio
+> 资料整合中
+
+-------------------
+#### 智能拐杖
+> 资料整合中-------------------
+
+-------------------
+#### 二维旋转LED
+> 资料整合中 -------------------
+
+-------------------
+
+
+### 备忘笔记
+> 这里是我学习备忘写笔记的地方  ，暂不开放-------------------
+
+-------------------
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
