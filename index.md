@@ -1,4 +1,4 @@
-## Welcome to pp34 github 主页
+## [Welcome to pp34 github 主页](https://pp34.github.io/pp34.cv/)
 --------------------
 |个人简介|正在做的项目|已经完成的制作|备忘笔记|
 
@@ -14,7 +14,7 @@
 
  <p align="right">https://pp34.github.io/pp34.cv/</p> 
 
- - **知乎** ：
+ - [**知乎**](https://www.zhihu.com/people/xie-pi-er-si/activities) ：
 
  <p align="right">https://www.zhihu.com/people/xie-pi-er-si/activities </p> 
 
