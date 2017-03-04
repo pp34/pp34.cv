@@ -6,9 +6,9 @@
  
  - **邮箱**：
 
- smu-pp@foxmail.com 
+ <p align="right">smu-pp@foxmail.com</p> 
 
- - **github** ：
+ - [**github**](https://github.com/pp34) ：
 
  <p align="right">https://github.com/pp34</p> 
 
