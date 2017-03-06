@@ -107,7 +107,8 @@
 
 
 -------------------
-####<center>[EDA](https://github.com/pp34/EDA/blob/master/EDA%20AD10.md)</center><br /> 
+#### <center>[EDA]</center><br /> 
+##### [Altium Designer 10](https://github.com/pp34/EDA/blob/master/EDA%20AD10.md)<br /> 
  
 -------------------
 
