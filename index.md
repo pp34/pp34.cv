@@ -105,6 +105,10 @@
 -------------------
 #### <center>PYTHON</center><br />  
 
+
+-------------------
+ #### <center>[EDA](https://github.com/pp34/EDA/blob/master/EDA%20AD10.md)</center><br /> 
+ 
 -------------------
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
