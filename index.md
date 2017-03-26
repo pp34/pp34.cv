@@ -9,7 +9,7 @@
  - **邮箱**：
 
  <p align="right">smu-pp@foxmail.com</p> 
-
+ 
  - [**github**](https://github.com/pp34) ：
 
  <p align="right">https://github.com/pp34</p> 
@@ -49,7 +49,7 @@
 > 开发遥遥无期<br />
 
 -------------------
-####  <center>[ECG硬件开发]( https://github.com/pp34/ECG-Hardware/blob/master/ECG.md )</center>
+####  <center> [ECG硬件开发]( https://github.com/pp34/ECG-Hardware/blob/master/ECG.md ) </center>
 > 硬件设计阶段<br />
 
 
