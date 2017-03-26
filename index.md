@@ -49,8 +49,9 @@
 > 开发遥遥无期<br />
 
 -------------------
-#### <center> 其他</center>
-> 暂时没打算<br />  
+####  <center>[ECG硬件开发](https://github.com/pp34/ECG-Hardware/blob/master/ECG.md)</center>
+> 硬件设计阶段<br />
+
 
 -------------------
 
