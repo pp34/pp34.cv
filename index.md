@@ -108,7 +108,7 @@
 -------------------
 #### <center>EDA</center><br /> 
 ##### [Altium Designer 10](https://github.com/pp34/EDA/blob/master/EDA%20AD10.md)<br /> 
- 
+##### [电容知识](https://github.com/pp34/EDA/blob/master/%E7%94%B5%E5%AE%B9%E9%80%89%E6%8B%A9.md)<br />  
 -------------------
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
