@@ -2,7 +2,7 @@
 
 --------------------
 
-![image](https://github.com/pp34/page-image/raw/master/TIM图片20170528193133.jpg)<br />
+![image](https://github.com/pp34/page-image/blob/master/img/f1.jpg)<br />
 ### 个人简介
 *pp34*	相关个人信息， 欢迎骚扰。
  
