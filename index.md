@@ -7,8 +7,11 @@
 *pp34*	相关个人信息， 欢迎骚扰。
  
  - **邮箱**：
-
+ 
  <p align="right">smu-pp@foxmail.com</p> 
+ <p align="right">pp34forstudy@gmail.com</p> 
+ <p align="right">pp34@i.smu.edu.cn</p> 
+ 
  
  - [**github**](https://github.com/pp34) ：
 
