@@ -2,7 +2,7 @@
 
 --------------------
 
-![傅里叶](https://github.com/pp34/page-image/blob/master/img/f1.jpg)
+![傅里叶](http://otmxoi72n.bkt.clouddn.com/f1.jpg)
 <br />
 ### 个人简介
 *pp34*	相关个人信息， 欢迎骚扰。
